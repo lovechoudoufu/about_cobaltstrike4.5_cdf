@@ -7,7 +7,7 @@ cobaltstrike4.5版本破解、去除checksum8特征、bypass BeaconEye、修复�
 如果您对原文中的不涉及软件版权的去除checksum8特征、bypass BeaconEye、错误路径泄漏stage、totp双因子认证的思路和方法感兴趣，相信你可以在Internet中搜索到相关文章。
 
 曾经发布过的hash如下，谨防有人篡改加料：
-
+```
 d0388ce3b646d5d3ab6d41261848a26af248c8345e0bab5475cedfd9e82328b5  cs.jar
 
 eeba31fac820508a9fe5a733a617e5d6  cobaltstrike4.5_cdf.zip
@@ -18,3 +18,4 @@ eeba31fac820508a9fe5a733a617e5d6  cobaltstrike4.5_cdf.zip
 
 9454823009d3e41d88cd5bff5e0bc9b9  cobaltstrike4.5_cdf.zip
 4e9dc80430438387a8ec63487bc478a5  cobaltstrike4.5_cdf_without_totp.zip
+```
